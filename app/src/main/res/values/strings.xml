@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Akeed</string>
+    <string name="internet_connnection">Internet connection not available</string>
+    <string name="search">Enter film name</string>
+</resources>
